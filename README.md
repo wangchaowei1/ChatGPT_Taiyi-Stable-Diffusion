@@ -13,4 +13,7 @@ git clone https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.
 放在项目平级目录
 
 
-参考
+参考资料：
+https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
+
+https://github.com/binary-husky/chatgpt_academic
