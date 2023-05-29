@@ -1,5 +1,7 @@
 # ChatGPT_Taiyi-Stable-Diffusion
 
+如果想使用ChatGPT功能请在config.py第二行写入自己的API密钥，确保您的设备能连接ChatGPT官网。
+
 项目运行教程
 
 mkdir ChatGPT_Taiyi-Stable-Diffusion
@@ -34,3 +36,4 @@ python app.py
 https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
 
 https://github.com/binary-husky/chatgpt_academic
+
