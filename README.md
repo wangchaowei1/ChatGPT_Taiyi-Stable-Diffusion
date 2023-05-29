@@ -4,7 +4,7 @@
 
 mkdir ChatGPT_Taiyi-Stable-Diffusion
 
-#使用conda创建运行环境
+使用conda创建运行环境
 
 1.创建python环境，这里需要python版本>=3.8
 
