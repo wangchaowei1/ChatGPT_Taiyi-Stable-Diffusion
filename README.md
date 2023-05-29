@@ -1,8 +1,14 @@
 # ChatGPT_Taiyi-Stable-Diffusion
 
-1.创建python环境，python>=3.8
+#使用conda创建运行环境
 
-2.pip install -r requirements.txt
+1.创建python环境，这里需要python版本>=3.8
+
+conda create --name chatgpt_taiyi python=3.8
+
+2.安装项目运行所需第三方python库
+
+pip install -r requirements.txt
 
 3.模型下载 
 
@@ -12,6 +18,12 @@ git clone https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.
 
 放在项目平级目录
 
+
+3.项目执行
+
+conda activate chatgpt_taiyi
+
+python app.py
 
 参考资料：
 https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
